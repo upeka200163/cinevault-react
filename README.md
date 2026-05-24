@@ -116,7 +116,7 @@ Make sure you have installed:
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/react-movie-master.git
+git clone https://github.com/upeka200163/CineVault-React.git
 ```
 
 ---
@@ -180,7 +180,6 @@ react-movie-master/
 * 📺 TV Show Recommendations
 
 ---
-
 
 # 📄 License
 
