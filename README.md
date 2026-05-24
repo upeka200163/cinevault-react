@@ -76,12 +76,12 @@ The project emphasizes modern React development practices, component-based archi
 
 # 🎨 Design Highlights
 
-✨ Modern Cinematic UI
-✨ Responsive Movie Grid Layout
-✨ Smooth User Experience (UX)
-✨ Interactive Search Interface
-✨ Mobile-First Responsive Design
-✨ Clean Typography & Visual Hierarchy
+✨ Modern Cinematic UI  <br />
+✨ Responsive Movie Grid Layout <br />
+✨ Smooth User Experience (UX) <br />
+✨ Interactive Search Interface <br />
+✨ Mobile-First Responsive Design <br />
+✨ Clean Typography & Visual Hierarchy <br />
 
 ---
 
