@@ -6,13 +6,6 @@ CineVault is a modern, responsive Movie Discovery Web Application built with **R
 
 ---
 
-## 🌍 Live Preview
-
-🔗 **Live Demo:**
-[ඔබේ Netlify / Vercel / GitHub Pages Link එක මෙතන දාන්න]
-
----
-
 # ✨ Project Overview
 
 CineVault is designed to provide movie enthusiasts with an engaging and interactive platform to discover films effortlessly.
